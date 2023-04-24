@@ -1,4 +1,5 @@
-## End to End ML Project
+## End to End ML Project 
+## Project Name - Diamond Price Prediction
 
 ### Created Environment
 ```
